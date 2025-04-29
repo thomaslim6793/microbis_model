@@ -1,0 +1,20 @@
+ONPG – O-nitro-phenyl-b-D-galactopyranoside, ONPG_test
+ADH – Arginine dehydrogenase, Arginine_dihydrolase
+LDC – Lysine decarboxylase, Lysine_deaminase
+ODC – Ornithine decarboxylase, Ornithine_decarboxylase
+CIT – Citrate, Citrate
+H2S – Hydrogen sulphide, Hydrogen_Sulfide_TSI
+URE – Urea, Urea_hydrolysis
+TDA – Tryptophan deaminase, Phenylanine_deaminase
+IND – Indole, Indole_production
+VP – Voges Proskauer, Voges-Proskauer
+GEL – Gelatinase, Gelatin_hydrolysis_22_c
+GLU – Glucose, D-Glucose_acid
+MAN – Manose, D-Mannose_fermentation
+INO – Inositol, myo-Inositol_fermentation
+SOR – Sorbitol, D-Sorbitol_fermentation
+RHA – Rhamnose, L-Rhamnose_fermentation
+SAC – Sucrose, Sucrose_fermentation
+MAL – Melibiose, Melibiose_fermentation
+AMY – Amygdalin, NA
+ARA – Arabinose, L-Arabinose_fermentation

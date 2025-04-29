@@ -1,0 +1,8 @@
+Urea, Urea_hydrolysis
+Lactose, Lactose_fermentation
+Glucose, D-Glucose_acid
+Citrate, Citrate
+Motility, Motility
+Indole, Indole_production
+TSI_H2S, Hydrogen_Sulfide_TSI
+Glucose_gas, D-Glucose_Gas
