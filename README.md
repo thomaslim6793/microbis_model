@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/974597213.svg)](https://doi.org/10.5281/zenodo.15300235)
+
 # Overview
 
 This repository contains the backend code for  
@@ -28,7 +30,7 @@ The codebase is organized into two main components:
 
 # 📂 Dataset Requirement
 
-The dataset required for training and inference is available on Zenodo:
+The dataset required for training is available on Zenodo:
 
 - **DOI**: [10.5281/zenodo.15300029](https://doi.org/10.5281/zenodo.15300029)
 
@@ -39,14 +41,6 @@ The dataset required for training and inference is available on Zenodo:
 3. Place the extracted files into a new folder named `local_data/` at the root of this repository.
 
 Example folder structure:
-
-```
-local_data/
-    ├── amr_data_long_format_no_antibiotics_preprocessed_08_24.csv
-    ├── gene_bin_classification_best.pkl
-    ├── gene_mult_classification_best.pkl
-    ├── (other files...)
-```
 
 ---
 
@@ -62,20 +56,14 @@ python train_gene_mult_classifier.py
 
 ---
 
-# 💜 License
+# License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-# 📖 Citation
+# Citation
 
 If you use this code or dataset, please cite:
 
 > Lim HS, Kwakye A, Huh CY, and Akligoh H. *MicroBIS - An integrated AI laboratory Assistant for Bacteria and Antimicrobial Resistance Identification.* 2025. DOI: [10.5281/zenodo.15300029](https://doi.org/10.5281/zenodo.15300029)
-
----
-
-# ✨ Acknowledgments
-
-This work is part of the MicroBIS initiative to support global antimicrobial resistance surveillance using scalable and accessible AI technologies.
